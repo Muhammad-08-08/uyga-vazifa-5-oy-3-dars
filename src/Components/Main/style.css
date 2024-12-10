@@ -1,0 +1,76 @@
+.main {
+    width: 1440px;
+    box-sizing: border-box;
+    margin: 0 auto;
+    margin-top: 120px;
+}
+
+.main-card {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 100px;
+}
+
+.main-card1 {
+    display: flex;
+    flex-direction: row-reverse;
+    justify-content: center;
+    align-items: center;
+    gap: 100px;
+}
+
+.main-card h2 {
+    width: 375px;
+    font-family: Recoleta;
+    font-size: 48px;
+    font-weight: 600;
+    line-height: 54px;
+    text-align: start;
+    color: #163A24;
+}
+
+.main-card p {
+    width: 374px;
+    font-family: Noto Sans;
+    font-size: 18px;
+    font-weight: 400;
+    line-height: 27px;
+    text-align: start ;
+    color: #163A24;
+}
+.main-card1 h2 {
+    width: 505px;
+    font-family: Recoleta;
+    font-size: 48px;
+    font-weight: 600;
+    line-height: 54px;
+    text-align: start;
+    color: #163A24;
+}
+
+.main-card1 p {
+    width: 374px;
+    font-family: Noto Sans;
+    font-size: 18px;
+    font-weight: 400;
+    line-height: 27px;
+    text-align: start ;
+    color: #163A24;
+}
+.main-icon {
+    margin-top: 66px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 100px;
+}
+.main-h2{
+    width: 100%;
+    font-family: Recoleta;
+    font-size: 48px;
+    font-weight: 600;
+    line-height: 54px;
+    text-align: center;
+    color: #163A24;
+}
